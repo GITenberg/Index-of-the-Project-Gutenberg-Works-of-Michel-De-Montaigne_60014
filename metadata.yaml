@@ -1,5 +1,8 @@
 _repo: Index-of-the-Project-Gutenberg-Works-of-Michel-De-Montaigne_60014
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60014-h/images/cover.jpg
 creator:
   author:
     agent_name: Montaigne, Michel de
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '1961'
     url: http://www.gutenberg.org/2009/agents/1961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60014#Index-of-the-Project-Gutenberg-Works-of-Michel-De-Montaigne
 gutenberg_issued: '2019-07-12'
 gutenberg_type: Text
 identifiers:
